@@ -37,7 +37,7 @@
             <li>Logistic Regression</li>
             <li>Decision Trees</li>
             <li>Random Forest</li>
-            <li>Support Vector Machines</li>
+            <li>KNN</li>
         </ul>
     </div>
     <div class="section">
