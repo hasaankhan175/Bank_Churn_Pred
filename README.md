@@ -63,25 +63,25 @@
             </tr>
             <tr>
                 <td style="padding: 10px;">Logistic Regression</td>
-                <td style="padding: 10px;">XX%</td>
+                <td style="padding: 10px;">83%</td>
             </tr>
             <tr>
-                <td style="padding: 10px;">Decision Tree</td>
-                <td style="padding: 10px;">XX%</td>
+                <td style="padding: 10px;">K Nearest Neighbours</td>
+                <td style="padding: 10px;">76%</td>
             </tr>
             <tr>
                 <td style="padding: 10px;">Random Forest</td>
-                <td style="padding: 10px;">XX%</td>
+                <td style="padding: 10px;">99.95%</td>
             </tr>
             <tr>
-                <td style="padding: 10px;">SVM</td>
-                <td style="padding: 10px;">XX%</td>
+                <td style="padding: 10px;">Decision Tree Classifier</td>
+                <td style="padding: 10px;">99.10%</td>
             </tr>
         </table>
     </div>
     <div class="section">
         <h2>Contributors</h2>
-        <p>Developed by <a href="https://github.com/hasaankhan175">Hasaan Khan</a> and <a href="https://www.openai.com">ChatGPT</a>.</p>
+        <p>Developed by <a href="https://github.com/hasaankhan175">Hasaan Khan</a> and <a href="https://www.openai.com">ChatGPT HEHE</a>.</p>
     </div>
 </body>
 </html>
