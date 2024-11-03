@@ -133,11 +133,7 @@
     </div>
     <div class="section">
         <h2>Contributors</h2>
-        <p>Developed by <a href="https://github.com/yourusername">Hasaan Khan</a> and <a href="https://www.openai.com">ChatGPT</a>.</p>
-    </div>
-    <div class="section">
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+        <p>Developed by <a href="https://github.com/hasaankhan175">Hasaan Khan</a> and <a href="https://www.openai.com">ChatGPT</a>.</p>
     </div>
 </body>
 </html>
