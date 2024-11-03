@@ -19,19 +19,6 @@
         </ul>
     </div>
     <div class="section">
-        <h2>Installation</h2>
-        <p>To set up the project, follow these steps:</p>
-        <ol>
-            <li>Clone the repository: <code>git clone https://github.com/yourusername/bank-churn-prediction.git</code></li>
-            <li>Navigate to the project directory: <code>cd bank-churn-prediction</code></li>
-            <li>Install required packages: <code>pip install -r requirements.txt</code></li>
-        </ol>
-    </div>
-    <div class="section">
-        <h2>Usage</h2>
-        <p>To run the project, use the command: <code>python main.py</code>. Follow the instructions in the command line interface.</p>
-    </div>
-    <div class="section">
         <h2>Data Description</h2>
         <p>The dataset includes columns such as:</p>
         <ul>
