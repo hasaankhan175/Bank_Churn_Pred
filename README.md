@@ -4,57 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bank Churn Prediction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212; /* Dark background for VS Code theme */
-            color: #ffffff;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #2a9d8f;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .section {
-            background-color: #1e1e1e;
-            border-radius: 10px;
-            padding: 20px;
-            margin: 20px 0;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .section:hover {
-            transform: scale(1.02);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-        }
-        h2 {
-            color: #e76f51;
-        }
-        p {
-            color: #dddddd;
-        }
-        a {
-            color: #2a9d8f;
-            text-decoration: none;
-            transition: color 0.3s ease;
-        }
-        a:hover {
-            color: #e76f51;
-            text-decoration: underline;
-        }
-        code {
-            background-color: #333;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        /* Responsive design */
-        @media (max-width: 600px) {
-            .section {
-                padding: 15px;
-            }
-        }
-    </style>
 </head>
 <body>
     <h1>Bank Churn Prediction Project</h1>
