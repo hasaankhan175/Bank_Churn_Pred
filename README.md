@@ -68,7 +68,7 @@
     </div>
     <div class="section">
         <h2>Contributors</h2>
-        <p>Developed by <a href="https://github.com/hasaankhan175">Hasaan Khan</a> and <a href="https://www.openai.com">ChatGPT HEHE</a>.</p>
+        <p>Developed by <a href="https://github.com/hasaankhan175">Hasaan Khan</a>
     </div>
 </body>
 </html>
